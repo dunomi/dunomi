@@ -1,5 +1,4 @@
-# dunomi
-
+# Instrukcja
 
 1. Należy uruchomić plik USA_analiza.ipynb
 
